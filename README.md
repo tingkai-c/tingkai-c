@@ -1,6 +1,6 @@
-# Hi, I'm Ting Kai Chiu 👋
+# Hi, I'm Kai 👋
 
-[Website](https://tingkaichiu.com) · [GitHub](https://github.com/tingkai-c)
+[Website](https://tingkaichiu.com) · [Linkedin](https://linkedin.com/in/tingkaichiu) · [Email](mailto:tingkai.chiu@mail.utoronto.ca)
 
 ## A few things I've built
 
